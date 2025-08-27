@@ -1,0 +1,6 @@
+{
+  "n_prompts": 3458,
+  "n_answers": 10348,
+  "n_combined": 13806,
+  "embedding_dim": 384
+}
